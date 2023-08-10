@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeneralKugelBlitz
 - 👀 I’m interested in AI SaaS
-- 🌱 I’m currently working on 
-- 💞️ I’m looking to collaborate on StoryGPT an open world filled with AI characters and an AI powered file manager
+- 🌱 I’m currently working on StoryGPT an open world filled with AI characters and REG: an AI powered file manager
+- 💞️ I’m looking to collaborate on both StoryGPT and REG  
 - 📫 How to reach me ibrahimjaffar.me@gmail.com
 
 <!---
